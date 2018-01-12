@@ -33,3 +33,6 @@ The second portion of a visualization project for the North Carolina Office of S
 **Statistics Senior Project**
 
 Senior project for my Bachelor of Science in Statistics from Duke University where I used a variety of statistical methods to predict high school dropout.
+
+<https://peridoteagle.github.io/EmilyHadleyFinal.pdf>
+![alt text](https://user-images.githubusercontent.com/34693652/34895183-857b8536-f7b2-11e7-9f88-070cba6a07cb.png)
