@@ -30,7 +30,7 @@ The second portion of a visualization project for the North Carolina Office of S
 <https://public.tableau.com/profile/emily.hadley#!/vizhome/Question1Demographics/Question1Demographics>
 ![alt text](https://user-images.githubusercontent.com/34693652/34894641-2583c7e4-f7b0-11e7-8c1c-dae07c35af2b.png)
 
-**Pro Bono Data Analysis for Hobbton High School and Sampson County Schools**
+**Pro Bono Data Analysis for Hobbton High School and Sampson County Schools (2016)**
 
 The link below references a Power Point that includes:
 1. Descriptive statistics for Hobbton High School revealing lower GPAs for male students and students of color
