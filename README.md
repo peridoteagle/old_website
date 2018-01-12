@@ -9,9 +9,9 @@ A side project to analyze what CEOs say in interviews with reporter Adam Bryant 
 <https://github.com/peridoteagle/want-to-be-a-ceo>
 ![alt text](https://user-images.githubusercontent.com/34693652/34894444-6f1084f2-f7af-11e7-875a-0a8e367c621b.png)
 
-**Text Analysis in R of Sample of Articles using Any Keyword from the New York Times (example: North Korea):**
+**Text Analysis in R of Sample of Articles using Any Keyword from the New York Times:**
 
-An extension of the above project that allows the user to input any keyword as a search term and produce a word cloud and a tree of topics/headlines.
+An extension of the above project that allows the user to input any keyword as a search term and produce a word cloud and a tree of topics/headlines. This example uses the search terms "North Korea" and searches 2017 articles labeled as "News".
 
 <https://github.com/peridoteagle/fun-with-nyt-search-api>
 ![alt text](https://user-images.githubusercontent.com/34693652/34894508-bce8b2bc-f7af-11e7-8276-49c0378d8855.png)
@@ -30,9 +30,9 @@ The second portion of a visualization project for the North Carolina Office of S
 <https://public.tableau.com/profile/emily.hadley#!/vizhome/Question1Demographics/Question1Demographics>
 ![alt text](https://user-images.githubusercontent.com/34693652/34894641-2583c7e4-f7b0-11e7-8c1c-dae07c35af2b.png)
 
-**Statistics Senior Project**
+**Statistics Senior Project:**
 
 Senior project for my Bachelor of Science in Statistics from Duke University where I used a variety of statistical methods to predict high school dropout.
 
 <https://peridoteagle.github.io/EmilyHadleyFinal.pdf>
-![alt text](https://user-images.githubusercontent.com/34693652/34895183-857b8536-f7b2-11e7-9f88-070cba6a07cb.png)
+![alt text](https://user-images.githubusercontent.com/34693652/34895249-e3a1636a-f7b2-11e7-9a45-5d77d1501b21.png)
